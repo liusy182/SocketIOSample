@@ -1,0 +1,16 @@
+{
+  "name": "NodejsWebApp1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": "Owner",
+    "email": ""
+  },
+
+  "dependencies":  {
+      "socket.io":  "*",
+      "mime":  "*",
+      "jquery":  "*"
+  }
+}
