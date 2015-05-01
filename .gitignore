@@ -42,3 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 node_modules
+*.tmp
+.ntvs_analysis.dat
+*.suo
+*.dat
+.ntvs_analysis.dat
